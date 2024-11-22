@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EstructurasApplication<estructuras>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ejercicio.estructuras.EstructurasApplication",
+            "projectName": "estructuras",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
